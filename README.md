@@ -1,4 +1,4 @@
-# ML-From-Scratch
+# ML-Implementation
 
 Welcome to **ML-From-Scratch**, a comprehensive collection of fundamental machine learning algorithms meticulously implemented from the ground up using pure Python. This repository avoids the use of high-level machine learning libraries like Scikit-learn or TensorFlow, focusing instead on building a deep understanding of the core concepts and mathematics behind these algorithms.
 
